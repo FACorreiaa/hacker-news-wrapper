@@ -1,1 +1,1 @@
-Hacker news wrapper just because
+Hacker news wrapper 
